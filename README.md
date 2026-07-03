@@ -203,7 +203,7 @@ parameters include:
 If you use this code in your research, please cite:
 
   Xue, Y. & Lei, J. (2026). A unified cross-scale framework for the
-  dynamic Waddington epigenetic landscape. PNAS.
+  dynamic Waddington epigenetic landscape. Preprint.
 
 ## Authors
 
